@@ -6,6 +6,9 @@ Automatic Number Plate Recognition (ANPR) system using Python and OpenCV. Detect
 
 <img width="552" height="387" alt="image" src="https://github.com/user-attachments/assets/7f8616eb-d0af-46bb-868b-fb98846e5db2" />
 
+<img width="552" height="387" alt="image" src="https://github.com/user-attachments/assets/0d0985b8-ebe4-4cf6-83d2-9064e1c84965" />
+
+
 
 
 
